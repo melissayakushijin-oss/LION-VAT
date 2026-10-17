@@ -1,4 +1,5 @@
 # LION VAT
+![Ferramenta LION VAT](lionvat.png) 
 
 Ferramenta em Excel que reúne as informações para a declaração do Imposto de Renda Pessoa Física (IRPF), em um passo a passo guiado com menu lateral e botões de navegação.
 
